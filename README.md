@@ -47,9 +47,8 @@ Quiz-Test-Microservices-Architecture/
 │── apigatewayService/    # API Gateway
 │── registryService/      # Eureka Service Registry
 │── README.md             # Project Documentation
-│── docker-compose.yml    # (If using Docker)
 │── .gitignore            # Git Ignore File
-│── pom.xml               # Parent Maven Configuration (if applicable)
+
 ```
 
 ---
